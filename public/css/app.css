@@ -1,0 +1,15 @@
+
+body {
+    background: rgb(255, 0, 111);
+}
+footer {
+    width: 80%;
+    margin-left: 10%;
+}
+nav{
+    width: 25%;
+    margin-left: 250%;
+}
+.jumbotron {
+    background: rgba(0, 0, 255, 0.084);
+}
